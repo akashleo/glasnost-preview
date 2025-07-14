@@ -3,6 +3,13 @@
   transition: background 0.5s ease;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--text-color);
+  background: var(--background-color);
+  margin: 0;
+}
+
 .main-content {
   padding-top: 1rem;
 }
