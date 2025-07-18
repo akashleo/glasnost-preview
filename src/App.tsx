@@ -11,7 +11,7 @@ import {
 import './App.css';
 
 const userProfile = {
-  avatar: './assets/profile.jpg', 
+  avatar: '/profile.jpg',
   name: 'Akash Ghosh',
   title: 'Frontend Engineer',
 };
