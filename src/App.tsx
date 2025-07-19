@@ -16,7 +16,7 @@ const userProfile = {
   title: 'Frontend Engineer',
 };
 
-// Component list for sidebar
+// Profile Picture put in the public folder and updated
 const componentList = [
   {
     id: 'profile-card',
